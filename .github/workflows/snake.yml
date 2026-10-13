@@ -2,8 +2,8 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # cada 12 horas
-  workflow_dispatch:          # permite lanzarlo a mano
+    - cron: "0 */12 * * *"
+  workflow_dispatch:          
   push:
     branches: [main]
 
@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generar SVG de la serpiente (paleta blanco y dorado)
+      - name: Generar SVG de la serpiente (commits verdes, serpiente dorada)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#B8860B&color_dots=#F4F1E8,#F3E5AB,#E6C766,#D4AF37,#A67C00
+            dist/github-snake.svg?color_snake=#D4AF37&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: Publicar en la rama "output"
         uses: crazy-max/ghaction-github-pages@v4
