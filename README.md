@@ -1,6 +1,6 @@
 <!-- ============ CABECERA (capsule-render · waving) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:FFFDF5,50:F3E5AB,100:D4AF37&text=TU%20NOMBRE&fontSize=60&fontColor=7A5C12&fontAlignY=38&animation=fadeIn&desc=Tu%20rol%20profesional&descSize=20&descAlignY=58" alt="Cabecera" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:FFFDF5,50:F3E5AB,100:D4AF37&text=Santiago%20Die%20Morejón&fontSize=60&fontColor=7A5C12&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineer&descSize=20&descAlignY=58" alt="Cabecera" />
 </p>
 
 <!-- ============ ESTADÍSTICAS (github-stats-extended) ============ -->
@@ -20,5 +20,5 @@
 
 <!-- ============ PIE (capsule-render · waving) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=true&color=0:FFFDF5,50:F3E5AB,100:D4AF37&text=TU%20NOMBRE&fontSize=60&fontColor=7A5C12&fontAlignY=62&animation=fadeIn&desc=Tu%20rol%20profesional&descSize=20&descAlignY=82" alt="Pie" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=true&color=0:FFFDF5,50:F3E5AB,100:D4AF37" alt="Pie" />
 </p>
