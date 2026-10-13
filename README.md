@@ -1,69 +1,75 @@
-<!-- =====================================================================
-     PALETA OLD MONEY
-     Azul marino profundo  #0B1F3A   ·  Azul marino medio  #14284B
-     Dorado antiguo        #C9A227   ·  Hueso / marfil     #F5F0E1
-     Blanco                #FFFFFF
-     El dorado solo se usa SOBRE azul marino, nunca sobre el gris de GitHub.
-     ===================================================================== -->
+<!-- Old Money palette: navy #0B1F3A · gold #C9A227 · bone #F5F0E1 · white.
+     Rule: gold only ever sits on navy. Section titles ship light/dark versions
+     because they sit directly on GitHub's page background. -->
 
-<!-- ============ CABECERA (capsule-render · waving) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0B1F3A,100:14284B&text=Santiago%20Die%20Morej%C3%B3n&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=COMPUTER%20ENGINEER&descSize=17&descAlignY=55&descColor=E8DFC8" alt="Santiago Die Morejón" />
+  <img src="assets/header.svg" width="100%" alt="Santiago Die Morejón · Computer Engineer" />
 </p>
 
-<!-- ============ LEMA DINÁMICO (readme-typing-svg) ============ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3800&pause=1400&color=F5F0E1&center=true&vCenter=true&width=640&height=50&lines=Computer+Engineer;Precisi%C3%B3n+%C2%B7+Elegancia+%C2%B7+C%C3%B3digo+limpio;Soluciones+construidas+para+perdurar" />
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3800&pause=1400&color=0B1F3A&center=true&vCenter=true&width=640&height=50&lines=Computer+Engineer;Precisi%C3%B3n+%C2%B7+Elegancia+%C2%B7+C%C3%B3digo+limpio;Soluciones+construidas+para+perdurar" alt="Lema" />
-  </picture>
-</p>
+<br />
 
-<!-- Divisor -->
+<!-- ============ ABOUT ME ============ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=E8DFC8" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0B1F3A" width="60%" alt="" />
-  </picture>
-</p>
-
-<!-- ============ ESTADÍSTICAS (github-stats-extended) ============ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&duration=2600&pause=100000&color=F5F0E1&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Estad%C3%ADsticas+de+GitHub" />
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&duration=2600&pause=100000&color=0B1F3A&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Estad%C3%ADsticas+de+GitHub" alt="Estadísticas de GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-about-dark.svg" />
+    <img src="assets/title-about-light.svg" width="100%" alt="About me" />
   </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=santiagodie&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&icon_color=C9A227&ring_color=C9A227&border_color=14284B&border_radius=6" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=santiagodie&layout=compact&langs_count=8&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=14284B&border_radius=6" alt="Top languages" />
+  <!-- TODO: two or three short sentences. Who you are, what you build, what you're after. -->
 </p>
 
-<!-- Divisor -->
+<br />
+
+<!-- ============ STACK ============ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=E8DFC8" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0B1F3A" width="60%" alt="" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg" />
+    <img src="assets/title-stack-light.svg" width="100%" alt="Stack" />
   </picture>
 </p>
 
-<!-- ============ SNAKE ANIMATION (Platane/snk) ============ -->
+<p align="center">
+  <!-- TODO: one badge per technology. Template (change NAME and LOGO):
+  <img src="https://img.shields.io/badge/NAME-0B1F3A?style=flat-square&logo=LOGO&logoColor=C9A227" alt="NAME" />
+  LOGO is the Simple Icons slug, e.g. python, typescript, react, docker, postgresql. -->
+</p>
+
+<br />
+
+<!-- ============ GITHUB STATS ============ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&duration=2600&pause=100000&color=F5F0E1&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Contribuciones" />
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&duration=2600&pause=100000&color=0B1F3A&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Contribuciones" alt="Contribuciones" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-stats-dark.svg" />
+    <img src="assets/title-stats-light.svg" width="100%" alt="GitHub stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=santiagodie&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&icon_color=C9A227&ring_color=C9A227&border_color=0B1F3A&border_radius=6" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=santiagodie&layout=compact&langs_count=8&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=0B1F3A&border_radius=6" alt="Top languages" />
+</p>
+
+<br />
+
+<!-- ============ CONTRIBUTIONS ============ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-contrib-dark.svg" />
+    <img src="assets/title-contrib-light.svg" width="100%" alt="Contributions" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
-<!-- ============ PIE (capsule-render · waving) ============ -->
+<br />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=true&color=0:14284B,100:0B1F3A&text=%E2%9C%A6&fontSize=28&fontColor=C9A227&fontAlignY=72" alt="Pie" />
+  <img src="assets/footer.svg" width="100%" alt="SDM" />
 </p>
