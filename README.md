@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- ============ CABECERA (capsule-render · waving) ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:FFFDF5,50:F3E5AB,100:D4AF37&text=TU%20NOMBRE&fontSize=60&fontColor=7A5C12&fontAlignY=38&animation=fadeIn&desc=Tu%20rol%20profesional&descSize=20&descAlignY=58" alt="Cabecera" />
+</p>
 
-<!--
-**santiagodie/santiagodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ============ ESTADÍSTICAS (github-stats-extended) ============ -->
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=santiagodie&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=FFFDF7&title_color=B8860B&text_color=5C4A1E&icon_color=D4AF37&ring_color=D4AF37&border_color=E6C766&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=santiagodie&layout=compact&langs_count=8&bg_color=FFFDF7&title_color=B8860B&text_color=5C4A1E&border_color=E6C766&border_radius=10" alt="Top languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ============ SNAKE ANIMATION (Platane/snk) ============ -->
+<h2 align="center">🐍 Contribuciones</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- ============ PIE (capsule-render · waving) ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=true&color=0:FFFDF5,50:F3E5AB,100:D4AF37&text=TU%20NOMBRE&fontSize=60&fontColor=7A5C12&fontAlignY=62&animation=fadeIn&desc=Tu%20rol%20profesional&descSize=20&descAlignY=82" alt="Pie" />
+</p>
