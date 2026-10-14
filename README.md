@@ -31,23 +31,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=C9A227" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0B1F3A?style=flat-square&logo=cplusplus&logoColor=C9A227" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-0B1F3A?style=flat-square&logo=mysql&logoColor=C9A227" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=C9A227" alt="PostgreSQL" />
+  <img height="28" src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=C9A227" alt="Python" />
+  <img height="28" src="https://img.shields.io/badge/C%2B%2B-0B1F3A?style=flat-square&logo=cplusplus&logoColor=C9A227" alt="C++" />
+  <img height="28" src="https://img.shields.io/badge/MySQL-0B1F3A?style=flat-square&logo=mysql&logoColor=C9A227" alt="MySQL" />
+  <img height="28" src="https://img.shields.io/badge/PostgreSQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=C9A227" alt="PostgreSQL" />
   <br />
-  <img src="https://img.shields.io/badge/PyTorch-0B1F3A?style=flat-square&logo=pytorch&logoColor=C9A227" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-0B1F3A?style=flat-square&logo=tensorflow&logoColor=C9A227" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-0B1F3A?style=flat-square&logo=huggingface&logoColor=C9A227" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1F3A?style=flat-square&logo=scikitlearn&logoColor=C9A227" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-0B1F3A?style=flat-square&logo=opencv&logoColor=C9A227" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/pandas-0B1F3A?style=flat-square&logo=pandas&logoColor=C9A227" alt="pandas" />
+  <img height="28" src="https://img.shields.io/badge/PyTorch-0B1F3A?style=flat-square&logo=pytorch&logoColor=C9A227" alt="PyTorch" />
+  <img height="28" src="https://img.shields.io/badge/TensorFlow-0B1F3A?style=flat-square&logo=tensorflow&logoColor=C9A227" alt="TensorFlow" />
+  <img height="28" src="https://img.shields.io/badge/Hugging%20Face-0B1F3A?style=flat-square&logo=huggingface&logoColor=C9A227" alt="Hugging Face" />
+  <img height="28" src="https://img.shields.io/badge/scikit--learn-0B1F3A?style=flat-square&logo=scikitlearn&logoColor=C9A227" alt="scikit-learn" />
+  <img height="28" src="https://img.shields.io/badge/OpenCV-0B1F3A?style=flat-square&logo=opencv&logoColor=C9A227" alt="OpenCV" />
+  <img height="28" src="https://img.shields.io/badge/pandas-0B1F3A?style=flat-square&logo=pandas&logoColor=C9A227" alt="pandas" />
   <br />
-  <img src="https://img.shields.io/badge/Jupyter-0B1F3A?style=flat-square&logo=jupyter&logoColor=C9A227" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/CUDA-0B1F3A?style=flat-square&logo=nvidia&logoColor=C9A227" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Docker-0B1F3A?style=flat-square&logo=docker&logoColor=C9A227" alt="Docker" />
-  <img src="https://img.shields.io/badge/Gradio-0B1F3A?style=flat-square&logo=gradio&logoColor=C9A227" alt="Gradio" />
-  <img src="https://img.shields.io/badge/Claude%20Code-0B1F3A?style=flat-square&logo=claudecode&logoColor=C9A227" alt="Claude Code" />
+  <img height="28" src="https://img.shields.io/badge/Jupyter-0B1F3A?style=flat-square&logo=jupyter&logoColor=C9A227" alt="Jupyter" />
+  <img height="28" src="https://img.shields.io/badge/CUDA-0B1F3A?style=flat-square&logo=nvidia&logoColor=C9A227" alt="CUDA" />
+  <img height="28" src="https://img.shields.io/badge/Docker-0B1F3A?style=flat-square&logo=docker&logoColor=C9A227" alt="Docker" />
+  <img height="28" src="https://img.shields.io/badge/Gradio-0B1F3A?style=flat-square&logo=gradio&logoColor=C9A227" alt="Gradio" />
+  <img height="28" src="https://img.shields.io/badge/Claude%20Code-0B1F3A?style=flat-square&logo=claudecode&logoColor=C9A227" alt="Claude Code" />
 </p>
 
 <br />
