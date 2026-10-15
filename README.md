@@ -61,8 +61,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=santiagodie&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&icon_color=C9A227&ring_color=C9A227&border_color=0B1F3A&border_radius=6" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=santiagodie&layout=compact&langs_count=8&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=0B1F3A&border_radius=6" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/santiagodie/santiagodie/output/github-top-langs.svg" alt="Top languages" />
 </p>
 
 <br />
