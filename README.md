@@ -85,5 +85,5 @@
 <br />
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="SDM" />
+  <img src="assets/footer.svg" width="100%" alt="SD logo · Santiago Die Morejón" />
 </p>

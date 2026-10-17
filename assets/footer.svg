@@ -6,5 +6,5 @@
 <rect x="16" y="16" width="868" height="78" fill="none" stroke="#C9A227" stroke-width="1" opacity=".9"/>
 <rect x="22" y="22" width="856" height="66" fill="none" stroke="#C9A227" stroke-width=".5" opacity=".45"/>
 <path d="M416.0 54H346.0" stroke="#C9A227" stroke-width="1" opacity=".7"/><path d="M484.0 54H554.0" stroke="#C9A227" stroke-width="1" opacity=".7"/>
-<text class="m" x="450.0" y="62" text-anchor="middle">SDM</text>
+<g transform="translate(450 54) scale(.18) translate(-155 -128)"><path d="M190 38 H66 A36.0 36.0 0 0 0 66 110 H160 A54.0 54.0 0 0 1 160 218 M24 218 H190 A90.0 90.0 0 0 0 190 38 M120 38 V80 M120 140 V218" fill="none" stroke="#C9A227" stroke-width="20" stroke-linecap="butt" stroke-linejoin="round"/></g>
 </svg>
